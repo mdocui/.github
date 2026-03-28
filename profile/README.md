@@ -1,9 +1,13 @@
-### mdocUI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdocui/.github/main/assets/logo.png" alt="mdocUI" width="400">
+</p>
 
-[![npm core](https://img.shields.io/npm/v/@mdocui/core?label=%40mdocui%2Fcore&color=blue)](https://www.npmjs.com/package/@mdocui/core)
-[![npm react](https://img.shields.io/npm/v/@mdocui/react?label=%40mdocui%2Freact&color=blue)](https://www.npmjs.com/package/@mdocui/react)
-[![npm cli](https://img.shields.io/npm/v/@mdocui/cli?label=%40mdocui%2Fcli&color=blue)](https://www.npmjs.com/package/@mdocui/cli)
-[![GitHub stars](https://img.shields.io/github/stars/mdocui/mdocui?style=social)](https://github.com/mdocui/mdocui)
+<p align="center">
+  <a href="https://www.npmjs.com/package/@mdocui/core"><img src="https://img.shields.io/npm/v/@mdocui/core?label=%40mdocui%2Fcore&color=blue" alt="npm core"></a>
+  <a href="https://www.npmjs.com/package/@mdocui/react"><img src="https://img.shields.io/npm/v/@mdocui/react?label=%40mdocui%2Freact&color=blue" alt="npm react"></a>
+  <a href="https://www.npmjs.com/package/@mdocui/cli"><img src="https://img.shields.io/npm/v/@mdocui/cli?label=%40mdocui%2Fcli&color=blue" alt="npm cli"></a>
+  <a href="https://github.com/mdocui/mdocui"><img src="https://img.shields.io/github/stars/mdocui/mdocui?style=social" alt="GitHub stars"></a>
+</p>
 
 Generative UI for LLMs using Markdoc `{% %}` tag syntax inline with markdown prose.
 
