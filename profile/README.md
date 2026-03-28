@@ -42,9 +42,11 @@ pnpm add @mdocui/core @mdocui/react
 Install the mdocUI skill in Claude Code:
 
 ```bash
-mkdir -p .claude/skills
-curl -o .claude/skills/mdocui.md https://raw.githubusercontent.com/mdocui/mdocui/main/SKILL.md
+mkdir -p .claude/skills/mdocui
+curl -o .claude/skills/mdocui/SKILL.md https://raw.githubusercontent.com/mdocui/mdocui/main/SKILL.md
 ```
+
+Then invoke with `/mdocui` in any conversation.
 
 #### Links
 
