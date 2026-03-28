@@ -19,7 +19,7 @@ Revenue grew **12%**. Want to dig deeper?
 | Package | Description |
 |---------|-------------|
 | [`@mdocui/core`](https://github.com/mdocui/mdocui/tree/main/packages/core) | Streaming parser, component registry, system prompt generator |
-| [`@mdocui/react`](https://github.com/mdocui/mdocui/tree/main/packages/react) | React renderer, 22 default components, `useRenderer` hook |
+| [`@mdocui/react`](https://github.com/mdocui/mdocui/tree/main/packages/react) | React renderer, 24 theme-neutral components, `useRenderer` hook |
 | [`@mdocui/cli`](https://github.com/mdocui/mdocui/tree/main/packages/cli) | Scaffold, generate system prompts, preview |
 
 #### Get started
