@@ -48,4 +48,4 @@ curl -o .claude/skills/mdocui.md https://raw.githubusercontent.com/mdocui/mdocui
 
 #### Links
 
-- [Documentation](https://mdocui.github.io) | [Examples](https://github.com/mdocui/examples) | [SKILL.md](https://github.com/mdocui/mdocui/blob/main/SKILL.md) | [llms.txt](https://mdocui.github.io/llms.txt)
+- [Documentation](https://mdocui.github.io) | [Live Demo](https://mdocui-demo.vercel.app) | [Examples](https://github.com/mdocui/examples) | [SKILL.md](https://github.com/mdocui/mdocui/blob/main/SKILL.md) | [llms.txt](https://mdocui.github.io/llms.txt)
