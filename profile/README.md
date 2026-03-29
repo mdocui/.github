@@ -50,4 +50,4 @@ Then invoke with `/mdocui` in any conversation.
 
 #### Links
 
-- [Documentation](https://mdocui.github.io) | [Live Demo](https://mdocui-demo.vercel.app) | [Examples](https://github.com/mdocui/examples) | [SKILL.md](https://github.com/mdocui/mdocui/blob/main/SKILL.md) | [llms.txt](https://mdocui.github.io/llms.txt)
+- [Documentation](https://mdocui.github.io) | [Live Demo](https://mdocui.vercel.app) | [Examples](https://github.com/mdocui/examples) | [SKILL.md](https://github.com/mdocui/mdocui/blob/main/SKILL.md) | [llms.txt](https://mdocui.github.io/llms.txt)
