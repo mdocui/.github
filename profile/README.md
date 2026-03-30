@@ -13,6 +13,8 @@ Generative UI for LLMs using Markdoc `{% %}` tag syntax inline with markdown pro
 
 LLMs write natural markdown **and** drop interactive components — charts, buttons, forms, tables — all in the same stream. No custom DSL, no JSON blocks, no JSX confusion.
 
+Shimmer placeholders, Zod prop validation, `contextData` passthrough, error boundaries, and verbosity prompt modes — all built in.
+
 ```
 The Q4 results show strong growth.
 
@@ -50,4 +52,4 @@ Then invoke with `/mdocui` in any conversation.
 
 #### Links
 
-- [Documentation](https://mdocui.github.io) | [Live Demo](https://mdocui.vercel.app) | [Examples](https://github.com/mdocui/examples) | [SKILL.md](https://github.com/mdocui/mdocui/blob/main/SKILL.md) | [llms.txt](https://mdocui.github.io/llms.txt)
+- [Documentation](https://mdocui.github.io) | [Live Demo](https://mdocui.vercel.app) | [Examples](https://github.com/mdocui/mdocui-examples) | [SKILL.md](https://github.com/mdocui/mdocui/blob/main/SKILL.md) | [llms.txt](https://mdocui.github.io/llms.txt)
