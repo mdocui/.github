@@ -15,6 +15,10 @@ LLMs write natural markdown **and** drop interactive components — charts, butt
 
 Shimmer placeholders, Zod prop validation, `contextData` passthrough, error boundaries, and verbosity prompt modes — all built in.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdocui/.github/main/assets/demo.gif" alt="mdocUI demo — streaming dashboard with charts, stats, and tables" width="800">
+</p>
+
 ```
 The Q4 results show strong growth.
 
